@@ -1,6 +1,6 @@
 # Project_Healthy
 ## PMV
-[PMV.pdf](https://github.com/alricru/Project_Healthy/files/13458575/PMV.pdf)
+https://github.com/alricru/Project_Healthy/blob/main/PMV.pdf
 ## Frameworks
 ![image](https://github.com/alricru/Project_Healthy/assets/91074521/f81abbf6-5dcb-4f10-8288-ae45339186ba)  ![image](https://github.com/alricru/Project_Healthy/assets/91074521/9eb20f60-b8bb-4270-a98f-3d9cc0be4e78)
 ## Packages
@@ -8,8 +8,13 @@
 ## QR
 
 ## Assets
-
-
-
-
-
+### 1.
+![hombre-gordo](https://github.com/alricru/Project_Healthy/assets/91074521/9312ee76-e6f7-4ceb-b273-fe3ce9b1ed6b)
+### 2.
+![carrito-bebe](https://github.com/alricru/Project_Healthy/assets/91074521/82a7c0ee-c2fc-4394-b3bf-91b37974d147)
+### 3.
+![low_resolution_image](https://github.com/alricru/Project_Healthy/assets/91074521/f02575f5-8ae5-4d9f-9a17-41ae5ac91fe2)
+### 4.
+![escalera-salud](https://github.com/alricru/Project_Healthy/assets/91074521/ca8f8015-54c9-4f8d-8869-59f1441ec155)
+### 5.
+![El_Bicho](https://github.com/alricru/Project_Healthy/assets/91074521/c5af7a9e-622f-4fa8-a324-47b7e7c25944)
