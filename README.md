@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1tjI1dijN9FduZK3nouvVi2myz8l_OAhT/view?usp=shari
 ## Packages
 ![image](https://github.com/alricru/Project_Healthy/assets/91074521/2526e04d-5196-4972-9a65-626c71718e0e) https://developer.vuforia.com/downloads/SDK
 ## QR
-
+![image](https://github.com/alricru/Project_Healthy/assets/91074521/f22e028b-220d-4a71-82db-df549485a298)
 ## Assets
 ### 1.
 ![hombre-gordo](https://github.com/alricru/Project_Healthy/assets/91074521/9312ee76-e6f7-4ceb-b273-fe3ce9b1ed6b)
